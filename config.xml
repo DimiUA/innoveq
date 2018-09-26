@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- <widget id="com.sinopacific.quiktrak" version="1.3.6" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0"> -->
-<widget xmlns:cdv="http://cordova.apache.org/ns/1.0" id="com.sinopacific.innoveq" version="1.4.2" xmlns="http://www.w3.org/ns/widgets" defaultlocale="en-US" android-versionCode="30">
+<widget xmlns:cdv="http://cordova.apache.org/ns/1.0" id="com.sinopacific.innoveq" version="1.4.2" xmlns="http://www.w3.org/ns/widgets" defaultlocale="en-US" android-versionCode="18">
     <name>InnoveQ</name>
     <description>
         InnoveQ GPS tracker
